@@ -1,5 +1,6 @@
 # Python-generated files
 __pycache__/
+.pytest_cache/
 .ruff_cache/
 *.py[oc]
 build/
@@ -12,3 +13,9 @@ wheels/
 
 # .env variable
 .env
+
+# Documentation files
+BUILD_GUIDE.md
+build_guide.md
+plan.html
+AGENTS.md
